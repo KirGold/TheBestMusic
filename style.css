@@ -1,0 +1,28 @@
+body{
+    background-color: blue;
+}
+
+.main {
+}
+h1{
+    text-align: center;
+}
+.media {
+    background-image: url(https://i.pinimg.com/564x/6e/4c/22/6e4c22bffd42dcab3b3b9431b6be5921.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 500px;
+    margin: 0 auto;
+}
+.media_player {
+    background-color: #266e8aba;
+    border-radius: 20px;
+    width: 300px;
+    margin: 0 auto;
+}
+.media_name {
+    text-align: center;
+    color: #000;
+}
+.media_audio {
+}
